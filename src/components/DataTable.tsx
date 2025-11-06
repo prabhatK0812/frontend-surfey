@@ -178,7 +178,7 @@ const DataTable = () => {
           onKeyDown={(e) => {
             if (e.key === "Enter") {
               setPage(0);
-              setTimeout(() => setQuery(""), 1000); // clear 1s after result
+              setTimeout(() => setQuery(""), 1000); 
             }
           }}
           onBlur={() => {
