@@ -1,0 +1,1 @@
+"use strict";exports.id=556,exports.ids=[556],exports.modules={2556:(e,s,t)=>{t.r(s),t.d(s,{$$typeof:()=>d,__esModule:()=>a,default:()=>n});var r=t(95153);let o=(0,r.createProxy)(String.raw`C:\Users\PRABHAT KUMAR\Downloads\frontend-surfey\src\components\DataTable.tsx`),{__esModule:a,$$typeof:d}=o,l=o.default,n=l}};
